@@ -5,10 +5,10 @@
 ### Links
 
 **Source**
-https://github.com/<namespace>/<repository>/mytalk.md
+https://github.com/WayOfCon/SeniorCapstone/mytalk.md
 
 **View**
-https://cicero.xyz/v3/remark/0.14.0/github.com/<namespace>/<repository>/master/mytalk.md
+https://cicero.xyz/v3/remark/0.14.0/github.com/WayOfCon/SeniorCapstone/master/mytalk.md
 
 ---
 
