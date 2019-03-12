@@ -4,10 +4,8 @@
 
 ### Links
 
-**Source**
-https://github.com/WayOfCon/SeniorCapstone/presentation.md
-
 **View**
+
 https://cicero.xyz/v3/remark/0.14.0/github.com/WayOfCon/SeniorCapstone/master/presentation.md
 
 ---
